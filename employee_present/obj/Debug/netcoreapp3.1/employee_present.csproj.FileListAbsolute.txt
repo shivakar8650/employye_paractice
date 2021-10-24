@@ -1,0 +1,14 @@
+C:\Users\shiva\source\repos\employee_present\employee_present\bin\Debug\netcoreapp3.1\employee_present.exe
+C:\Users\shiva\source\repos\employee_present\employee_present\bin\Debug\netcoreapp3.1\employee_present.deps.json
+C:\Users\shiva\source\repos\employee_present\employee_present\bin\Debug\netcoreapp3.1\employee_present.runtimeconfig.json
+C:\Users\shiva\source\repos\employee_present\employee_present\bin\Debug\netcoreapp3.1\employee_present.runtimeconfig.dev.json
+C:\Users\shiva\source\repos\employee_present\employee_present\bin\Debug\netcoreapp3.1\employee_present.dll
+C:\Users\shiva\source\repos\employee_present\employee_present\bin\Debug\netcoreapp3.1\employee_present.pdb
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.csproj.AssemblyReference.cache
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.AssemblyInfoInputs.cache
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.AssemblyInfo.cs
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.csproj.CoreCompileInputs.cache
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.dll
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.pdb
+C:\Users\shiva\source\repos\employee_present\employee_present\obj\Debug\netcoreapp3.1\employee_present.genruntimeconfig.cache
